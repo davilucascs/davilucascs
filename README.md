@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Davi Lucas</h1>
-<h3 align="center">Futuro Desenvolvedor Back-End 🚀</h3>
+<h1 align="center">Olá, eu sou Davi Lucas</h1>
+<h3 align="center">Futuro Desenvolvedor Back-End </h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/ec/ea/8a/ecea8a51e4ae263afe3268d4a15ffb6e.gif" width="300px">
