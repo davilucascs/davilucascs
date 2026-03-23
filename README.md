@@ -7,41 +7,41 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
-- 🎂 Tenho 16 anos  
-- 📍 Moro em Presidente Prudente - SP  
-- 🧠 Sou criativo e comunicativo  
-- 🎓 Estudante + curso de TI no SENAI  
-- 💻 Focado em me tornar desenvolvedor Back-End  
-
----
-
-## 🚀 Objetivos
-
-- 📚 Fazer faculdade de Sistemas de Informação  
-- 💼 Trabalhar como desenvolvedor Back-End  
-- 🌱 Evoluir constantemente na área de tecnologia  
+-  Tenho 16 anos  
+-  Moro em Presidente Prudente - SP  
+- Sou criativo e comunicativo  
+-  Estudante + curso de TI no SENAI  
+- Focado em me tornar desenvolvedor Back-End  
 
 ---
 
-## 📖 Atualmente aprendendo
+##  Objetivos
+
+-  Fazer faculdade de Sistemas de Informação  
+-  Trabalhar como desenvolvedor Back-End  
+-  Evoluir constantemente na área de tecnologia  
+
+---
+
+##  Atualmente aprendendo
 
 - Lógica de programação  
 - Git e GitHub  
 
 ---
 
-## 🎮 Hobbies
+##  Hobbies
 
-- 🎧 Ouvir música  
-- 🎮 Jogar jogos eletrônicos  
-- 🏐 Praticar vôlei  
-- ⚽ Jogar futebol  
+-  Ouvir música  
+-  Jogar jogos eletrônicos  
+- Praticar vôlei  
+-  Jogar futebol  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davilucascs&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
