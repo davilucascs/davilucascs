@@ -9,8 +9,8 @@
 
 ##  Sobre mim
 
--  Tenho 16 anos  
--  Moro em Presidente Prudente - SP  
+- Tenho 16 anos  
+- Moro em Presidente Prudente - SP  
 - Sou criativo e comunicativo  
 -  Estudante + curso de TI no SENAI  
 - Focado em me tornar desenvolvedor Back-End  
