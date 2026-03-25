@@ -25,7 +25,7 @@
 
 ---
 
-##  Atualmente aprendendo
+##  Atualmente Aprendendo
 
 - Lógica de programação  
 - Git e GitHub  
