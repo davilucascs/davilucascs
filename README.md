@@ -12,7 +12,7 @@
 - Tenho 16 anos  
 - Moro em Presidente Prudente - SP  
 - Sou criativo e comunicativo  
--  Estudante + curso de TI no SENAI  
+- Estudante + curso de TI no SENAI  
 - Focado em me tornar desenvolvedor Back-End  
 
 ---
@@ -34,7 +34,7 @@
 
 ##  Hobbies
 
--  Ouvir música  
+- Ouvir Musica
 -  Jogar jogos eletrônicos  
 - Praticar vôlei  
 -  Jogar futebol  
