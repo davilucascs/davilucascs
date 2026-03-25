@@ -50,5 +50,3 @@
 </p>
 
 ---
-
-⭐ "Sempre buscando evoluir e aprender algo novo todos os dias 🚀"
