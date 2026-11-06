@@ -11,7 +11,7 @@
 
 - Tenho 16 anos  
 - Moro em Presidente Prudente - SP  
-- Sou criativo e comunicativo  
+- Sou criativo
 - Estudante + curso de TI no SENAI  
 - Focado em me tornar desenvolvedor Back-End  
 
