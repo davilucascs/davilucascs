@@ -37,7 +37,6 @@
 - Ouvir Musica
 -  Jogar jogos eletrônicos  
 - Praticar vôlei  
--  Jogar futebol  
 
 ---
 
